@@ -1,8 +1,13 @@
 Vampiros que faltam:
 
-37 43
-71 73 87 90 93
-107 109 114 127 128 
+37* 
+43
+71 73 87 
+90* 
+93
+107 109 
+114*
+127 128 
 138 140 142 148 157
 589 595
 606 608 617 
@@ -10,3 +15,5 @@ Vampiros que faltam:
 651
 664 678 
 684 694
+
+* Os livros com asterisco(*) são livros que temos um potencial vendedor em vista
